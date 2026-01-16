@@ -1,0 +1,6 @@
+# Claude Code configuration
+.claude/
+CLAUDE.md
+.playwright-mcp/
+.mcp.json
+
